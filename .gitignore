@@ -48,6 +48,11 @@ data/
 
 # Environment variables
 .env
+.env.local
+
+# Logs
+logs/
+*.log
 
 # Jupyter Notebook
 .ipynb_checkpoints
