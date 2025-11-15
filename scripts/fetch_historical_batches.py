@@ -46,7 +46,8 @@ HOURLY_VARIABLES = [
     "soil_temperature_0_to_7cm", "soil_temperature_7_to_28cm",
     "soil_temperature_28_to_100cm", "soil_temperature_100_to_255cm",
     "soil_moisture_0_to_7cm", "soil_moisture_7_to_28cm",
-    "soil_moisture_28_to_100cm", "soil_moisture_100_to_255cm"
+    "soil_moisture_28_to_100cm", "soil_moisture_100_to_255cm",
+    "sunshine_duration", "shortwave_radiation"  # ADDED: Tourism-relevant solar variables
 ]
 
 # ALL DAILY VARIABLES from Archive API
