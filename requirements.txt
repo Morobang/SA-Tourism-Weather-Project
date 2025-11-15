@@ -1,5 +1,9 @@
 # Core dependencies
-requests==2.31.0
+# API & Data Collection
+requests>=2.31.0
+openmeteo-requests>=1.0.0
+requests-cache>=1.0.0
+retry-requests>=2.0.0
 pandas==2.2.0
 numpy==1.26.3
 
